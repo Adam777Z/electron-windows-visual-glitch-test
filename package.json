@@ -1,0 +1,32 @@
+{
+  "name": "electron-windows-visual-glitch-test",
+  "version": "1.0.0",
+  "description": "A minimal Electron application to test window visual glitch on Windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "repository": "https://github.com/Adam777Z/electron-windows-visual-glitch-test",
+  "keywords": [
+    "Electron",
+    "windows",
+    "visual",
+    "glitch",
+    "test"
+  ],
+  "author": "Adam777 & GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0",
+    "@electron-forge/maker-deb": "^6.0.0",
+    "@electron-forge/maker-rpm": "^6.0.0",
+    "@electron-forge/maker-squirrel": "^6.0.0",
+    "@electron-forge/maker-zip": "^6.0.0",
+    "electron": "^21.1.1"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
