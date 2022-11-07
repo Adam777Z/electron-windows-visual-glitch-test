@@ -6,6 +6,12 @@ Issue: [Maximize window visual glitch on Windows](https://github.com/electron/el
 
 Based on [electron-quick-start](https://github.com/electron/electron-quick-start)
 
+### Download
+Download the latest version on the [Releases](https://github.com/Adam777Z/electron-windows-visual-glitch-test/releases/latest) page.
+
+### App data location
+[See here](https://www.electronjs.org/docs/latest/api/app/#appgetpathname).
+
 #### Portable mode (Windows only)
 Supports storing the app data in the `data` folder next to the executable file.\
 To enable, create the `data` folder where the executable file is located.\
