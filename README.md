@@ -2,7 +2,8 @@
 
 A minimal Electron application to test window visual glitch on Windows.
 
-Issue: [Maximize window visual glitch on Windows](https://github.com/electron/electron/issues/35246)
+Issue: [Maximize window visual glitch on Windows](https://github.com/electron/electron/issues/35246)\
+Fixed in [Electron v38.0.0](https://github.com/electron/electron/releases/tag/v38.0.0)
 
 Based on [electron-quick-start](https://github.com/electron/electron-quick-start)
 
